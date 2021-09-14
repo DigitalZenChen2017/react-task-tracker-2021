@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Meditate for 20 Minutes",
+      "day": "September 12th, 2021",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Take Multi-Vitamin",
+      "day": "September 12th, 2021",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Lift for 2 Hours",
+      "day": "September 12th, 2021",
+      "reminder": true
+    }
+  ]
+}
